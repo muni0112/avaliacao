@@ -50,3 +50,18 @@
     padding: 0em;
     background-color: var(--branco);
 }
+.container__imagem-logo{
+    width: 90px;
+    height: 90px;
+    
+}
+.titulo__cabeçalho{
+    display: none;
+}
+@media screen and (min-width: 1024px) {
+    .titulo__cabeçalho{
+        font-size: 30px;
+        color:black;
+        display: block;
+    }
+}
