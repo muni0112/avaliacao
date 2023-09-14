@@ -18,7 +18,7 @@
 
    @media screen and (min-width: 1024px) {
     .gridimg{
-
+        background-color: rgb(255, 255, 255);
     }
     .imagem{
         border-top: 10px groove rgb(92, 33, 133);
@@ -28,4 +28,12 @@
         width: 180px!important;
         height: 160px !important;
     }
+}
+.titulo{
+    font-size: 10px;
+    color: rgb(2, 46, 46);
+}
+.secao__banner{
+    width: 100%;
+    display: block;
 }
